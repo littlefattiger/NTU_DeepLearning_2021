@@ -3,3 +3,5 @@
 HW06/faces/*.jpg
 *.csv
 *.ckpt
+*.txt
+*.pt
